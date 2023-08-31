@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "task": "Start learning HTML",
+    "state": "DONE"
+  },
+  {
+    "id": 2,
+    "task": "Start my backend roadmap",
+    "state": "CREATED"
+  },
+  {
+    "id": 3,
+    "task": "Becoming a great Web fullstack Developper",
+    "state": "DOING"
+  }
+]
